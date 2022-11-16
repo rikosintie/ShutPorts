@@ -1,0 +1,4 @@
+end
+show uptime
+
+show interfaces

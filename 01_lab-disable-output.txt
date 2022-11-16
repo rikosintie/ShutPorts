@@ -1,0 +1,24 @@
+ configure terminal
+HP-2920-24G-PoEP(config)#  interface 2 disable
+HP-2920-24G-PoEP(config)# interface 3 disable
+HP-2920-24G-PoEP(config)# interface 4 disable
+HP-2920-24G-PoEP(config)# interface 5 disable
+HP-2920-24G-PoEP(config)# interface 6 disable
+HP-2920-24G-PoEP(config)# interface 7 disable
+HP-2920-24G-PoEP(config)# interface 8 disable
+HP-2920-24G-PoEP(config)# interface 9 disable
+HP-2920-24G-PoEP(config)# interface 11 disable
+HP-2920-24G-PoEP(config)# interface 12 disable
+HP-2920-24G-PoEP(config)# interface 13 disable
+HP-2920-24G-PoEP(config)# interface 14 disable
+HP-2920-24G-PoEP(config)# interface 15 disable
+HP-2920-24G-PoEP(config)# interface 16 disable
+HP-2920-24G-PoEP(config)# interface 17 disable
+HP-2920-24G-PoEP(config)# interface 18 disable
+HP-2920-24G-PoEP(config)# interface 19 disable
+HP-2920-24G-PoEP(config)# interface 20 disable
+HP-2920-24G-PoEP(config)# interface 21 disable
+HP-2920-24G-PoEP(config)# interface 22 disable
+HP-2920-24G-PoEP(config)# interface 24 disable
+HP-2920-24G-PoEP(config)#  end
+HP-2920-24G-PoEP# 
